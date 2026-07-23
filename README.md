@@ -6,9 +6,18 @@ A Vue 3 Single Page Application (SPA) using Pinia for state management and JWT a
 
 The frontend provides a clean interface for authenticated users to ask questions and receive AI-generated answers along with information about which tools were used and the agent's execution steps.
 
+The application provides an interface where users can ask questions and receive:
+
+- AI-generated answers
+- Tools Used
+- Steps
+- Error handling feedback
+
 ## FastAPI Backend
 
 https://github.com/persteenolsen/fastapi-jwt-auth-ai-agent-two
+
+The backend API using FastAPI, JWT authentication, LLM integration, and agent tools such as Wikipedia search, Wikidata and Calculator
 
 The backend provides:
 
