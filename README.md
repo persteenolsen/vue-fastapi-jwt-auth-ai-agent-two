@@ -81,7 +81,7 @@ Clone the repository
 
 Enter the project directory
 
-    cd vue-fastapi-jwt-ai-agent
+    cd vue-fastapi-jwt-ai-agent-two
 
 Install dependencies
 
