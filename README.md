@@ -8,8 +8,7 @@ The frontend provides a clean interface for authenticated users to ask questions
 
 ## FastAPI Backend
 
-- **AI Agent API**  
-  https://github.com/persteenolsen/fastapi-jwt-auth-ai-agent-two
+https://github.com/persteenolsen/fastapi-jwt-auth-ai-agent-two
 
 The backend provides:
 
@@ -144,9 +143,9 @@ Create a `.env` file
 4. Ask a question
 5. View
 
-- AI response
-- Tools used
-- Agent execution steps
+   - AI response
+   - Tools used
+   - Agent execution steps
 
 ---
 
