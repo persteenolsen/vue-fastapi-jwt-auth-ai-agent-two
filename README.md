@@ -4,7 +4,9 @@ Last updated: 23-07-2026
 
 A Vue 3 Single Page Application (SPA) using Pinia for state management and JWT authentication, designed to interact with a FastAPI AI Agent backend.
 
-The frontend provides a clean interface for authenticated users to ask questions and receive AI-generated answers along with information about which tools were used and the agent's execution steps.
+This project demonstrates a complete AI agent frontend architecture:
+
+SPA architecture → authentication → API integration → AI agent → tool execution → agent response display → local development → production build
 
 The application provides an interface where users can ask questions and receive:
 
