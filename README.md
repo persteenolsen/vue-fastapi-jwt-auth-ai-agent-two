@@ -1,6 +1,6 @@
 # 🤖 vue-fastapi-jwt-ai-agent
 
-Last updated: 23-07-2026
+Last updated: 25-07-2026
 
 A Vue 3 Single Page Application (SPA) using Pinia for state management and JWT authentication, designed to interact with a FastAPI AI Agent backend.
 
